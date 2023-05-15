@@ -2,7 +2,7 @@
 ### <div align="center">Oi Tudo bem sou Arthur Estudante de Programação e desenvolvimento</div>  
   
 
-- 💼 Atualmente estou a procura do meu primeiro Estágio  
+
   
 
 - ✏️ Estou no 3º ano do ensino médio técnico da Fiap School  
