@@ -7,7 +7,7 @@
   
   
 
-- ❓ Atualmente estudando node.js e começando Ionic    
+- ❓ Atualmente Estudando Python 
   
 
 -  🏀 Nas Horas vagas costumo jogar basquete    
